@@ -30,7 +30,7 @@ written by:
 
 <b>Collaboration Viewpoint</b>
 
-![github-large](https://github.com/danniarreza/Service-Oriented-Rural-Platform/blob/main/Collaboration%20viewpoint%20(SOA%20paper).jpg)
+![github-large](https://github.com/danniarreza/Service-Oriented-Rural-Platform/blob/main/Collaboration%20viewpoint%20(SOA%20paper)%20-%20updated.jpg)
 
 <b>Sales Application Usage Viewpoint</b>
 
