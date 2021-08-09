@@ -100,4 +100,5 @@ Lender (orangbiasa/123)
 3.	Hence, there is a limitation imposing the server to enter sleep mode after 1 hour of inactivity, which will need ± 1 minute for the server to restart so that it can be accessed/used. Because of this, it is recommended to (re-)start/access all application mentioned above to make sure all of them are running, which is important to ensure smooth data exchange.
 4.	You can refresh your browser if you encounter an issue such as:
 <br>
+
 ![github-large](https://github.com/danniarreza/Service-Oriented-Rural-Platform/blob/main/502%20Bad%20Gateway.png)
