@@ -5,7 +5,7 @@ This is a repository acting as a viewer for the paper titled:
 <b>Architecting a Service-Oriented Rural Platform</b>
 <br>
 Improving rural economic climate through participation in the digital business ecosystem.
-
+<i>
 written by:
 
 - Iqbal Yulizar Mukti <sup>a</sup>
@@ -14,7 +14,7 @@ written by:
 - Marten van Sinderen <sup>b</sup>
 - Yudha Prambudia <sup>c</sup>
 - Adina Aldea <sup>a</sup>
-
+</i>
 <sup>a</sup> Department of Industrial Engineering and Business Information Systems, University of Twente
 <br>
 <sup>b</sup> Department of Services and CyberSecurity, University of Twente
