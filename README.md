@@ -11,10 +11,11 @@ written by:
 
 - Iqbal Yulizar Mukti <sup>a</sup>
 - Danniar Reza Firdausy <sup>a</sup>
-- Maria-Eugenia Iacob <sup>a</sup>
-- Marten van Sinderen <sup>b</sup>
-- Yudha Prambudia <sup>c</sup>
 - Adina Aldea <sup>a</sup>
+- Yudha Prambudia <sup>c</sup>
+- Marten van Sinderen <sup>b</sup>
+- Maria-Eugenia Iacob <sup>a</sup>
+
 </i>
 <sup>a</sup> Department of Industrial Engineering and Business Information Systems, University of Twente
 <br>
