@@ -1,7 +1,6 @@
 # Service-Oriented Rural Platform (SORP)
 
-This is a repository acting as a viewer for the paper titled:
-
+This page is a supplementary material for an article entitled <br/>
 <b>Architecting a Service-Oriented Rural Platform</b>
 <br>
 Improving rural economic climate through participation in the digital business ecosystem.
