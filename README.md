@@ -7,9 +7,7 @@ Improving rural economic climate through participation in the digital business e
 <br />
 <i>
 written by:
-
-- Iqbal Yulizar Mukti <sup>a</sup>
-- Danniar Reza Firdausy <sup>a</sup>
+Iqbal Yulizar Mukti <sup>a</sup>, Danniar Reza Firdausy <sup>a</sup>
 - Adina Aldea <sup>a</sup>
 - Yudha Prambudia <sup>c</sup>
 - Marten van Sinderen <sup>b</sup>
