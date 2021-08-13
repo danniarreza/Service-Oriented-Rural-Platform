@@ -1,23 +1,12 @@
 # Service-Oriented Rural Platform (SORP)
 
-This page is a supplementary material for an article entitled <br/>
-<b>Architecting a Service-Oriented Rural Platform</b>
-<br>
-Improving rural economic climate through participation in the digital business ecosystem.
-<br />
-<i>
-written by:
-Iqbal Yulizar Mukti <sup>a</sup>, Danniar Reza Firdausy <sup>a</sup>
-- Adina Aldea <sup>a</sup>
-- Yudha Prambudia <sup>c</sup>
-- Marten van Sinderen <sup>b</sup>
-- Maria-Eugenia Iacob <sup>a</sup>
+This page is a supplementary material for an article: <br />
+<b>Architecting a Service-Oriented Rural Platform</b> <br />
+Improving rural economic climate through participation in the digital business ecosystem<br />
 
-</i>
-<sup>a</sup> Department of Industrial Engineering and Business Information Systems, University of Twente
-<br>
-<sup>b</sup> Department of Services and CyberSecurity, University of Twente
-<br>
+Iqbal Yulizar Mukti <sup>a</sup>, Danniar Reza Firdausy <sup>a</sup>, Adina Aldea <sup>a</sup>, Yudha Prambudia <sup>c</sup>, Marten van Sinderen <sup>b</sup>, Maria-Eugenia Iacob <sup>a</sup> <br />
+<sup>a</sup> Department of Industrial Engineering and Business Information Systems, University of Twente <br />
+<sup>b</sup> Department of Services and CyberSecurity, University of Twente <br />
 <sup>c</sup> School of Industrial and Systems Engineering, Telkom University
 
 # ArchiMate Viewpoints
