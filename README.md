@@ -22,7 +22,7 @@ Iqbal Yulizar Mukti <sup>a</sup>, Danniar Reza Firdausy <sup>a</sup>, Adina Alde
 
 <b>Sales Application Usage Viewpoint</b>
 
-![github-large](https://github.com/danniarreza/Service-Oriented-Rural-Platform/blob/main/Sales%20-%20app%20usage%20(WO%20Affiliate)%20SOA%20Paper.jpg)
+![github-large](https://github.com/danniarreza/Service-Oriented-Rural-Platform/blob/main/Sales%20-%20app%20usage%20viewpoint.jpg)
 
 <b>Funding Application Usage Viewpoint</b>
 
